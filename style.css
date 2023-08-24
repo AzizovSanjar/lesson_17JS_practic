@@ -1,0 +1,27 @@
+.accordion {
+  background-color: rgb(88, 88, 147);
+  color: black;
+  cursor: pointer;
+  padding: 30px;
+  padding-left: 40px;
+  width: 100%;
+  border: 2px solid green;
+  font-size: 20px;
+  transition: 0.4s;
+}
+
+.accordion:hover {
+  background-color: gray;
+}
+.content {
+  display: none;
+  overflow: hidden;
+}
+
+.p {
+  background-color: rgb(90, 37, 37);
+  color: yellow;
+}
+#u{
+    margin-left: 100%;
+}
